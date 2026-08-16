@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Dashboard---Power-BI-Project
+# Ecommerce-Sales-Dashboard-Power-BI-Project
 
 ## About This Project
 I built this dashboard to analyze 2 years of ecommerce sales data (2021-2022) 
