@@ -52,7 +52,9 @@ Because customers are buying fewer but higher-value orders, the company
 could try bundling products together or offering upsells to keep growing 
 profit even if order count keeps dropping.
 
-
+ ## Dashboard Preview
+   ![Dashboard Screenshot](Screenshot%20(991).png)
+   
 ## Tools Used
 Power BI Desktop, DAX, Power Query
 
