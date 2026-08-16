@@ -59,5 +59,5 @@ profit even if order count keeps dropping.
 Power BI Desktop, DAX, Power Query
 
 ## File
-Open  in Power BI Desktop to view/edit 
+Open `Ecommerce_sales_analysis(1).pbix` in Power BI Desktop to view/edit 
 the live dashboard.
